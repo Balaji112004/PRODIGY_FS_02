@@ -5,5 +5,6 @@ Terminal:
 1.cd backend
 2.node app.js
 
-Open the login.html.Then use credentials(username:Administrator, password:K.balaji1@$) 
-Now we will be directed to 
+Open the login.html.
+Then use credentials(username:Administrator, password:K.balaji1@$) 
+Now we will be redirected to navbar. html
